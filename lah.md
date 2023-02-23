@@ -1,9 +1,3 @@
-Sure, here’s a Lua documentation for the provided functions and structs:
-
-Lua Docs:
-
-Functions:
-
 Sleep(int ms)
 
 Sleep for the given number of milliseconds.
